@@ -1,6 +1,6 @@
 # NodePractice
 <ul>
-  <li>get post put </li>
+  <li> <s>get post put</s> </li>
   <li>authentication: passport.js</li>
   <li>express-jade</li>
   <li>mongoose-mongodb</li>
